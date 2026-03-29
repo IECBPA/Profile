@@ -5,8 +5,7 @@ THIS TIME NO MORE DAY 1 DAY 1 bruh. Khalas.
 
 https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh?si=4ccc4ca8e75348f4
 
-**Ok**
+**Ok timtoeatclean**
 
-**Diet Start Date: 3/28/2026**
-Height 168cm
-Weight 57.1KG (BMI 20.2)
+**Diet Start Date: 3/28/2026: Bad**
+**Diet Date: 3/29/2026 Status: Good**
