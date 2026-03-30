@@ -1,14 +1,28 @@
 Essentials/tools
-# LIST
+# List
+
+# Desktop
 
 1) PowerToys
 2) HWiNFO
-3) that's for now im busy mb
 
 # VScode extensions
 
-1) Tokyo Night (Theme)
-2) Github Copilot Chat
-3) Code Spell Checker
-4) Live Server
-5) PHP Intelephense
+1) Catppuccin for VSCode
+2) Gemini Code Assist
+3) Github Copilot Chat
+4) Code Spell Checker
+5) Live Server
+6) PHP Intelephense
+7) Advance New File
+8) Auto Close Tag
+9) Better Comments
+10) ESLint
+11) Prettier - Code formatter
+12) ES7 React/Redux/GraphQL/React-Native snippets
+13) Tailwind CSS IntelliSense
+14) Dev Containers
+15) DotENV
+16) Highlight Matching Tag
+
+# Languages
